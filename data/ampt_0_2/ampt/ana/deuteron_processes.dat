@@ -1,0 +1,32 @@
+ 1 * 9 ->d+ 3 (regular d prodn)    @evt# 4 @nt= 76
+ 2 * 9 ->d+ 4 (regular d prodn)    @evt# 7 @nt= 46
+  d+ 4 (regular d M elastic) @evt# 7 @nt= 48 lb1,2= 4 42
+ -1 * -9 ->d+ 4 (regular dbar prodn) @evt# 13 @nt= 83
+  d+ 4 ->BB (regular dbar destrn) @evt# 13 @nt= 84 lb1,2= -1 -8
+ 2 * 8 ->d+ 3 (regular d prodn)    @evt# 34 @nt= 31
+  d+ 3 ->BB (regular d destrn) @evt# 34 @nt= 32 lb1,2= 1 7
+ 2 * 7 ->d+ 5 (regular d prodn)    @evt# 42 @nt= 104
+ -6 * -2 ->d+ 4 (regular dbar prodn) @evt# 52 @nt= 51
+  d+ 4 (regular dbar M elastic) @evt# 52 @nt= 55 lb1,2= 4 -42
+  d+ 4 (regular dbar M elastic) @evt# 52 @nt= 62 lb1,2= 4 -42
+  d+ 4 (regular dbar M elastic) @evt# 52 @nt= 64 lb1,2= 4 -42
+ 1 * 8 ->d+ 3 (regular d prodn)    @evt# 55 @nt= 119
+  d+ 3 (regular d M elastic) @evt# 55 @nt= 126 lb1,2= 3 42
+ 6 * 1 ->d+ 4 (regular d prodn)    @evt# 88 @nt= 39
+ 6 * 1 ->d+ 3 (regular d prodn)    @evt# 89 @nt= 84
+  d+ 5 (regular d M elastic) @evt# 89 @nt= 99 lb1,2= 5 42
+  d+ 5 (regular d M elastic) @evt# 89 @nt= 103 lb1,2= 5 42
+ 6 * 1 ->d+ 3 (regular d prodn)    @evt# 92 @nt= 134
+  d+ 3 (regular d M elastic) @evt# 92 @nt= 139 lb1,2= 3 42
+  d+ 3 (regular d M elastic) @evt# 92 @nt= 145 lb1,2= 3 42
+ 8 * 1 ->d+ 4 (regular d prodn)    @evt# 97 @nt= 147
+ 7 * 8 ->d+ 4 (regular d prodn)    @evt# 118 @nt= 89
+ 6 * 2 ->d+ 3 (regular d prodn)    @evt# 130 @nt= 58
+ 1 * 9 ->d+ 3 (regular d prodn)    @evt# 130 @nt= 77
+ 9 * 2 ->d+ 4 (regular d prodn)    @evt# 134 @nt= 96
+ 9 * 1 ->d+ 3 (regular d prodn)    @evt# 137 @nt= 124
+ 9 * 1 ->d+ 3 (regular d prodn)    @evt# 162 @nt= 105
+  d+ 3 ->BB (regular d destrn) @evt# 162 @nt= 121 lb1,2= 2 1
+ 2 * 6 ->d+ 3 (regular d prodn)    @evt# 188 @nt= 42
+ 8 * 2 ->d+ 0 (regular d prodn)    @evt# 196 @nt= 36
+  d+ 0 (regular d M elastic) @evt# 196 @nt= 49 lb1,2= 0 42
